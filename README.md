@@ -1,2 +1,2 @@
 # Fin
-Fin is a functional programming extension to C#
+Fin is a functional programming extension for C#
