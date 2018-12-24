@@ -4,6 +4,11 @@ using Unit = System.ValueTuple;
 namespace Fin
 {
     using static Core;
+
+    /// <summary>
+    /// To use these extensions add:
+    /// using Fin;
+    /// </summary>
     public static partial class ActionToFunc
     {
         /// <summary>

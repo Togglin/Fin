@@ -2,6 +2,10 @@ using Unit = System.ValueTuple;
 
 namespace Fin
 {
+    /// <summary>
+    /// Core contains the static core functionality that isn't
+    /// part of the extension methods.
+    /// </summary>
     public static partial class Core
     {
         /// <summary>

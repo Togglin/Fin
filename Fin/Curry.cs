@@ -2,6 +2,10 @@
 
 namespace Fin
 {
+    /// <summary>
+    /// To use these extensions add:
+    /// using Fin;
+    /// </summary>
     public static partial class FuncExtensions
     {
         /// <summary>
