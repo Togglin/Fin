@@ -2,11 +2,27 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Fin</RootNamespace>
+    <ReleaseVersion>0.1.0</ReleaseVersion>
+    <PackageId>Fin.Collection</PackageId>
+    <Authors>Brandon Johnson</Authors>
+    <Company>Togglin</Company>
+    <Copyright>Copyright ©2019 Togglin</Copyright>
+    <RepositoryType>C#</RepositoryType>
+    <PackageTags>c# functional programming func action option collection enumerable</PackageTags>
+    <PackageReleaseNotes />
+    <License>MIT License</License>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/togglin/fin</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/togglin/fin</RepositoryUrl>
+    <Version>0.1.0</Version>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Togglin/Fin/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Fin.Core" Version="0.1.0" />
     <PackageReference Include="System.Collections.Immutable" Version="1.5.0" />
+    <PackageReference Include="Fin.Option" Version="0.1.0" />
   </ItemGroup>
 
 </Project>

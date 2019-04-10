@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Linq;
 
-namespace Fin.Collection
+namespace Fin
 {
-    public static class Core
+    public static partial class Collection
     {
         public static KeyValuePair<K, T> Pair<K, T>(K key, T value)
             => new KeyValuePair<K, T>(key, value);
