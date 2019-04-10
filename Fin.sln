@@ -1,9 +1,17 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin", "Fin\Fin.csproj", "{161134E9-FF0D-4C51-BA89-3DA0EB9AFA43}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.Tests", "Fin.Tests\Fin.Tests.csproj", "{12C5B830-E2E4-49C2-A3A7-4C097FDF11C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.Option", "Fin.Option\Fin.Option.csproj", "{D73288A8-8683-4671-BD41-5D8E3A07C4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.Option.Tests", "Fin.Option.Tests\Fin.Option.Tests.csproj", "{AB55A856-B65D-4BC8-AB0D-94D47BCCFED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.Collection", "Fin.Collection\Fin.Collection.csproj", "{07807432-1F06-4C80-984B-0668A18938DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.Collection.Tests", "Fin.Collection.Tests\Fin.Collection.Tests.csproj", "{5F16476A-0E4A-402D-81EA-9EBD0E64819A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +27,22 @@ Global
 		{12C5B830-E2E4-49C2-A3A7-4C097FDF11C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C5B830-E2E4-49C2-A3A7-4C097FDF11C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C5B830-E2E4-49C2-A3A7-4C097FDF11C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73288A8-8683-4671-BD41-5D8E3A07C4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73288A8-8683-4671-BD41-5D8E3A07C4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73288A8-8683-4671-BD41-5D8E3A07C4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73288A8-8683-4671-BD41-5D8E3A07C4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB55A856-B65D-4BC8-AB0D-94D47BCCFED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB55A856-B65D-4BC8-AB0D-94D47BCCFED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB55A856-B65D-4BC8-AB0D-94D47BCCFED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB55A856-B65D-4BC8-AB0D-94D47BCCFED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07807432-1F06-4C80-984B-0668A18938DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07807432-1F06-4C80-984B-0668A18938DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07807432-1F06-4C80-984B-0668A18938DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07807432-1F06-4C80-984B-0668A18938DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F16476A-0E4A-402D-81EA-9EBD0E64819A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F16476A-0E4A-402D-81EA-9EBD0E64819A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F16476A-0E4A-402D-81EA-9EBD0E64819A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F16476A-0E4A-402D-81EA-9EBD0E64819A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		description = Fin is a functional programming extension for c#.

@@ -7,7 +7,7 @@
     <PackageId>Fin.Core</PackageId>
     <Authors>Brandon Johnson</Authors>
     <Company>Togglin</Company>
-    <Copyright>Copyright ©2018 Togglin</Copyright>
+    <Copyright>Copyright ©2019 Togglin</Copyright>
     <RepositoryType>C#</RepositoryType>
     <PackageTags>c# functional programming func action option</PackageTags>
     <PackageReleaseNotes />
@@ -18,5 +18,4 @@
     <Version>0.1.0</Version>
     <PackageLicenseUrl>https://raw.githubusercontent.com/Togglin/Fin/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
-
 </Project>
