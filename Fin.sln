@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.Collection", "Fin.Colle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.Collection.Tests", "Fin.Collection.Tests\Fin.Collection.Tests.csproj", "{5F16476A-0E4A-402D-81EA-9EBD0E64819A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fin.All", "Fin.All\Fin.All.csproj", "{17777A23-ECDF-4D90-AE10-DA3A5309EF9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{5F16476A-0E4A-402D-81EA-9EBD0E64819A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F16476A-0E4A-402D-81EA-9EBD0E64819A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F16476A-0E4A-402D-81EA-9EBD0E64819A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17777A23-ECDF-4D90-AE10-DA3A5309EF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17777A23-ECDF-4D90-AE10-DA3A5309EF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17777A23-ECDF-4D90-AE10-DA3A5309EF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17777A23-ECDF-4D90-AE10-DA3A5309EF9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		description = Fin is a functional programming extension for c#.
